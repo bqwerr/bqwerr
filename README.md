@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning Backend 😇
 - 👯 I’m looking to collaborate on real time projects
 
+**Technologies I've worked with:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ### Connect with me:
 
@@ -15,6 +19,10 @@
 <br />
 
 ---
+
+<p align="left">
+  <a href="https://github.com/bqwerr"><img src="https://github-readme-stats.vercel.app/api?username=ronald-hove&count_private=true&hide_border=true&show_icons=true&theme=dark" alt="bqwerr's github stats"></a>
+</p>
 
 
 ---
