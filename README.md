@@ -6,30 +6,28 @@
 
 **Technologies I've worked with:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/java.svg' width='33'/>
+<img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/python2.png' width='33'/>
+<img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/django.svg' height='40'/>
+<img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/html.svg' width='30'/>
+<img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/js.svg' width='30'/> 
+<img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/bootstrap.svg' width='33'/>
+<img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/sql.svg' width='30'/> 
+<img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/git.svg' width='30'/>
+<img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/react.svg' width='33'/>
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][lichess]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][bs]
 
 <br />
 
 ---
 
 <p align="left">
-  <a href="https://github.com/bqwerr"><img src="https://github-readme-stats.vercel.app/api?username=ronald-hove&count_private=true&hide_border=true&show_icons=true&theme=dark" alt="bqwerr's github stats"></a>
+  <a href="https://github.com/bqwerr"><img src="https://github-readme-stats.vercel.app/api?username=bqwerr&count_private=true&hide_border=true&show_icons=true&theme=dark" alt="bqwerr's github stats"></a>
 </p>
 
-
----
-
-### 📕 Latest Notes
-
----
 
 [website]: https://bqwerr.github.io
 [linkedin]: https://linkedin.com/
