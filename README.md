@@ -33,6 +33,13 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 <!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=bqwerr&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
 
 <!--START_SECTION:waka-->
+
+```text
+Markdown     44 mins         ██████████████████████▒░░   89.04 %
+Properties   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+Java         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+```
+
 <!--END_SECTION:waka-->
 
 [website]: https://bqwerr.github.io
