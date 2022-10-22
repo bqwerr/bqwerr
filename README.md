@@ -25,8 +25,10 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
   <br/>
   <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,django,spring,angular,azure,bootstrap,docker,git,heroku,html,javascript,nodejs,react,sqlite&perline=8)][website]
+<!-- Not working on HTML preview -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,python,mysql,django,spring,angular,azure,bootstrap,docker,git,heroku,html,javascript,nodejs,react,sqlite&perline=8)][website] -->
 
+[![My Skills](images/skills.svg)][website]
 
 </details> 
 <br />
@@ -57,3 +59,4 @@ Java         1 min           █░░░░░░░░░░░░░░░░
 [hitachi]: https://www.hitachivantara.com/
 [lichess]: https://lichess.org/@/LazY_KnIghT
 [leetcode]: https://leetcode.com/LazY_KnIghT/
+
