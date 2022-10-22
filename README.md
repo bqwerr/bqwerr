@@ -49,9 +49,10 @@ Java         1 min           █░░░░░░░░░░░░░░░░
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/LazY_KnIghT?theme=dark&font=Anek%20Latin&ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/LazY_KnIghT?theme=dark&font=Anek%20Latin&ext=heatmap)][leetcode]
 
 [website]: https://bqwerr.github.io
 [linkedin]: https://linkedin.com/in/srujan-tumma
 [hitachi]: https://www.hitachivantara.com/
 [lichess]: https://lichess.org/@/LazY_KnIghT
+[leetcode]: https://leetcode.com/LazY_KnIghT/
