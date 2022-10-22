@@ -1,5 +1,5 @@
 
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I am Srujan
+### Hi there <a href="https://bqwerr.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I am Srujan
 This is the place where I explore and learn Technical skills.
 
 - 🌱 I’m currently improvising my Backend knowledge.
@@ -22,15 +22,13 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
   <summary><b>🛠️&nbsp;&nbsp;Technologies&nbsp;and&nbsp;Tools, I've worked with</b></summary>
   <br/>
   
-[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,django,spring,angular,azure,bootstrap,docker,git,heroku,html,javascript,nodejs,react,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,django,spring,angular,azure,bootstrap,docker,git,heroku,html,javascript,nodejs,react,sqlite&perline=8)](https://skillicons.dev)
 
 </details> 
 <br />
 
 
 📊 &nbsp;**This week I spent my time on**
-
-<!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=bqwerr&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
