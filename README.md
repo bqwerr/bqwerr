@@ -1,5 +1,5 @@
 
-### Hi there <a href="https://bqwerr.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I am Srujan
+### <a href="https://bqwerr.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hi there, I am Srujan
 This is the place where I explore and learn Technical skills.
 
 - 🌱 I’m currently exploring Microservices & Backend Technologies.
@@ -10,7 +10,7 @@ This is the place where I explore and learn Technical skills.
 
 <br />
 
-<details>
+<details open>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
@@ -20,12 +20,13 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 <br />
 
 
-<details>
+<details open>
   <summary><b>🛠️&nbsp;&nbsp;Technologies&nbsp;and&nbsp;Tools, I've worked with</b></summary>
   <br/>
   <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,django,spring,angular,azure,bootstrap,docker,git,heroku,html,javascript,nodejs,react,sqlite&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,django,spring,angular,azure,bootstrap,docker,git,heroku,html,javascript,nodejs,react,sqlite&perline=8)][website]
+
 
 </details> 
 <br />
