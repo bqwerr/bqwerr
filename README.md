@@ -1,5 +1,5 @@
 
-### <a href="https://bqwerr.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hi there, I am Srujan
+## <a href="https://bqwerr.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hi there, I am Srujan
 This is the place where I explore and learn Technical skills.
 
 - 🌱 I’m currently exploring Microservices & Backend Technologies.
@@ -20,17 +20,16 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 <br />
 
 
-<details open>
-  <summary><b>🛠️&nbsp;&nbsp;Technologies&nbsp;and&nbsp;Tools, I've worked with</b></summary>
+
+<b>🛠️&nbsp;&nbsp;Technologies&nbsp;and&nbsp;Tools, I've worked with</b>
   <br/>
-  <br/>
 
-<!-- Not working on HTML preview -->
-<!-- [![My Skills](https://skillicons.dev/icons?i=java,python,mysql,django,spring,angular,azure,bootstrap,docker,git,heroku,html,javascript,nodejs,react,sqlite&perline=8)][website] -->
 
-[![My Skills](images/skills.svg)][website]
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,django,spring,angular,azure,bootstrap,docker,git,heroku,html,javascript,nodejs,react,sqlite&perline=8)][website]
 
-</details> 
+<!-- [![My Skills](images/skills.svg)][website] -->
+
+
 <br />
 
 
@@ -48,8 +47,6 @@ Java         1 min           █░░░░░░░░░░░░░░░░
 <br />
 
 ✅ &nbsp;**Coding Profile**
-
-
 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/LazY_KnIghT?theme=dark&font=Anek%20Latin&ext=heatmap)][leetcode]
