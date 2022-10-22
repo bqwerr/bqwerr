@@ -1,29 +1,41 @@
 
-### Hello World 👋
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I am Srujan
+This is the place where I explore and learn Technical skills.
 
-- 🔭 I am currently working at [Hitachi][hitachi]
-- 🌱 I’m currently learning Backend 😇
-- 👯 I’m looking to collaborate on real time projects
-
-### **Technologies I've worked with:**  
-
-<img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/java.svg' width='33'/> <img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/python2.png' width='33'/> <img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/bqwerr/bqwerr/blob/master/images/react.svg' width='33'/>
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+- 🌱 I’m currently improvising my Backend knowledge.
+- ⚡ I’m looking to collaborate on real time projects.
+- 👨‍💻 &nbsp;Check out my projects and experiences at [bqwer.github.io][website]
+- ♞ I am also active at [Lichess][lichess]
+- 💬&nbsp;Reach me at [@srujan-tumma][linkedin] or <a rel="me" href="mailto:tummasrujan@gmail.com">mail</a> me.
 
 <br />
 
----
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
 
-<p align="left">
-  <a href="https://github.com/bqwerr"><img src="https://github-readme-stats.vercel.app/api?username=bqwerr&count_private=true&hide_border=true&show_icons=true&theme=dark" alt="bqwerr's github stats"></a>
-</p>
+I am currently working as a Technical Consultant with 1.5 years of experience in developing enterprise applications.
 
+</details> 
+
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Technologies&nbsp;and&nbsp;Tools, I've worked with</b></summary>
+  <br/>
+  
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,django,spring,angular,azure,bootstrap,docker,git,heroku,html,javascript,nodejs,react,sqlite)](https://skillicons.dev)
+
+</details> 
+<br />
+
+
+📊 &nbsp;**This week I spent my time on**
+
+<!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=bqwerr&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [website]: https://bqwerr.github.io
-[linkedin]: https://linkedin.com/
+[linkedin]: https://linkedin.com/in/srujan-tumma
 [hitachi]: https://www.hitachivantara.com/
 [lichess]: https://lichess.org/@/LazY_KnIghT
-[bs]: https://binarysearch.com/@/BruteForce
