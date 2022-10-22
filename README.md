@@ -2,7 +2,7 @@
 ### Hi there <a href="https://bqwerr.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I am Srujan
 This is the place where I explore and learn Technical skills.
 
-- 🌱 I’m currently improvising my Backend knowledge.
+- 🌱 I’m currently exploring Microservices & Backend Technologies.
 - ⚡ I’m looking to collaborate on real time projects.
 - 👨‍💻 &nbsp;Check out my projects and experiences at [bqwer.github.io][website]
 - ♞ I am also active at [Lichess][lichess]
@@ -28,7 +28,7 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 <br />
 
 
-📊 &nbsp;**This week I spent my time on**
+</> &nbsp;**This week I spent my time on**
 
 <!--START_SECTION:waka-->
 
@@ -39,6 +39,9 @@ Java         1 min           █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+✅ &nbsp;**Coding Profile**
+[![LeetCode Stats](https://leetcard.jacoblin.cool/LazY_KnIghT?theme=dark&font=Anek%20Latin&ext=heatmap)](https://leetcode.com/LazY_KnIghT/)
 
 [website]: https://bqwerr.github.io
 [linkedin]: https://linkedin.com/in/srujan-tumma
