@@ -17,18 +17,21 @@ This is the place where I explore and learn Technical skills.
 I am currently working as a Technical Consultant with 1.5 years of experience in developing enterprise applications.
 
 </details> 
+<br />
+
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Technologies&nbsp;and&nbsp;Tools, I've worked with</b></summary>
   <br/>
-  
+  <br/>
+
 [![My Skills](https://skillicons.dev/icons?i=java,python,mysql,django,spring,angular,azure,bootstrap,docker,git,heroku,html,javascript,nodejs,react,sqlite&perline=8)](https://skillicons.dev)
 
 </details> 
 <br />
 
 
-</> &nbsp;**This week I spent my time on**
+📊 &nbsp;**This week I spent my time on**
 
 <!--START_SECTION:waka-->
 
@@ -39,11 +42,13 @@ Java         1 min           █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+<br />
 
 ✅ &nbsp;**Coding Profile**
 
 
-<br />
+
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/LazY_KnIghT?theme=dark&font=Anek%20Latin&ext=heatmap)
 
 [website]: https://bqwerr.github.io
