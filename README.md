@@ -41,7 +41,10 @@ Java         1 min           █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ✅ &nbsp;**Coding Profile**
-[![LeetCode Stats](https://leetcard.jacoblin.cool/LazY_KnIghT?theme=dark&font=Anek%20Latin&ext=heatmap)](https://leetcode.com/LazY_KnIghT/)
+
+
+<br />
+![LeetCode Stats](https://leetcard.jacoblin.cool/LazY_KnIghT?theme=dark&font=Anek%20Latin&ext=heatmap)
 
 [website]: https://bqwerr.github.io
 [linkedin]: https://linkedin.com/in/srujan-tumma
