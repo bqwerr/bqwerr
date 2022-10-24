@@ -38,12 +38,12 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     5 hrs 8 mins    █████████████████▒░░░░░░░   69.59 %
-Java         1 hr 19 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
-Properties   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Python       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-XML          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Markdown     5 hrs 50 mins   █████████████▒░░░░░░░░░░░   52.68 %
+Java         1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+HTML         1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+JSON         1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+TypeScript   45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+Properties   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 ```
 
 <!--END_SECTION:waka-->
