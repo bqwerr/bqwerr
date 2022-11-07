@@ -38,11 +38,7 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 <!--START_SECTION:waka-->
 
 ```text
-JSON         14 mins         ████████████████░░░░░░░░░   64.21 %
-Groovy       5 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.69 %
-Properties   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
