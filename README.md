@@ -38,12 +38,12 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     1 hr 35 mins    ████████░░░░░░░░░░░░░░░░░   32.39 %
-JSON         53 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
-Dart         40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
-HTML         30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-YAML         29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-Docker       17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+HTML         1 hr 48 mins    ████████████▒░░░░░░░░░░░░   48.83 %
+JSON         1 hr 9 mins     ███████▓░░░░░░░░░░░░░░░░░   31.33 %
+CSS          12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+TypeScript   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Markdown     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
