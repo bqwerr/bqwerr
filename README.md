@@ -49,10 +49,14 @@ Other        4 mins          ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 <br />
 
+<!---
+
 ✅ &nbsp;**Coding Profile**
 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/LazY_KnIghT?theme=dark&font=Anek%20Latin&ext=heatmap)][leetcode]
+
+-->
 
 [website]: https://bqwerr.github.io
 [linkedin]: https://linkedin.com/in/srujan-tumma
