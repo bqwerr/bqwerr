@@ -38,10 +38,10 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 <!--START_SECTION:waka-->
 
 ```text
-YAML         42 mins         ███████████▒░░░░░░░░░░░░░   45.74 %
-JSON         29 mins         ████████░░░░░░░░░░░░░░░░░   32.00 %
-Git Config   16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
-Markdown     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+YAML         42 mins         ███████████░░░░░░░░░░░░░░   44.09 %
+JSON         33 mins         ████████▓░░░░░░░░░░░░░░░░   34.51 %
+Git Config   16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
+Markdown     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
 ```
 
 <!--END_SECTION:waka-->
