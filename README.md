@@ -38,8 +38,11 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 <!--START_SECTION:waka-->
 
 ```text
-Python   4 mins          ██████████████████████░░░   88.24 %
-JSON     0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+HTML         5 mins          ███████████████░░░░░░░░░░   60.11 %
+JSON         2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.92 %
+Python       1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
