@@ -38,12 +38,12 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 4 mins     █████████▒░░░░░░░░░░░░░░░   37.56 %
-JSON         41 mins         ██████░░░░░░░░░░░░░░░░░░░   24.27 %
-HTML         37 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
-YAML         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-Bash         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-TSConfig     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+TypeScript   44 mins         ███████████▒░░░░░░░░░░░░░   45.18 %
+HTML         22 mins         ██████░░░░░░░░░░░░░░░░░░░   23.51 %
+YAML         13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
+JSON         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+Bash         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+CSV          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
