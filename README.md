@@ -38,9 +38,9 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 <!--START_SECTION:waka-->
 
 ```text
-Python   37 mins         ███████████████████▓░░░░░   78.03 %
-Dart     8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.20 %
-Other    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Python   37 mins         ██████████████░░░░░░░░░░░   56.55 %
+Dart     25 mins         █████████▓░░░░░░░░░░░░░░░   38.32 %
+Other    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 ```
 
 <!--END_SECTION:waka-->
