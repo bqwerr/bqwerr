@@ -38,8 +38,10 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   37 mins         ██████████████▒░░░░░░░░░░   57.52 %
-Other      14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
+Python     47 mins         █████████▒░░░░░░░░░░░░░░░   36.92 %
+Markdown   46 mins         █████████░░░░░░░░░░░░░░░░   35.83 %
+Dart       18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Other      14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
 ```
 
 <!--END_SECTION:waka-->
