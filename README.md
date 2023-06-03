@@ -37,12 +37,12 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 
 <!--START_SECTION:waka-->
 
-```text
-Java         2 hrs 52 mins   ██████████▒░░░░░░░░░░░░░░   40.81 %
-Properties   1 hr 22 mins    █████░░░░░░░░░░░░░░░░░░░░   19.38 %
-Dart         1 hr 20 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
-Python       1 hr 7 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
-XML          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+```txt
+Java         2 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   36.52 %
+Python       1 hr 57 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
+Properties   1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
+Dart         1 hr 20 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
+XML          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
