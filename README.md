@@ -38,11 +38,11 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 <!--START_SECTION:waka-->
 
 ```txt
-Java         6 hrs 51 mins   █████████████▓░░░░░░░░░░░   54.56 %
-Python       4 hrs 4 mins    ████████░░░░░░░░░░░░░░░░░   32.43 %
-Properties   1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-XML          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Docker       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Java         4 hrs 24 mins   ██████████████▓░░░░░░░░░░   58.23 %
+Python       2 hrs 59 mins   ██████████░░░░░░░░░░░░░░░   39.41 %
+Properties   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Docker       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
