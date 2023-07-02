@@ -38,11 +38,8 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         3 hrs 1 min     ██████████████████▒░░░░░░   73.81 %
-Python       36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
-Properties   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Groovy       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-YAML         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Dart     1 hr 39 mins    ██████████████████▒░░░░░░   73.09 %
+Python   36 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
 ```
 
 <!--END_SECTION:waka-->
