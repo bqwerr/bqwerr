@@ -38,11 +38,11 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         1 hr 13 mins    ███████████████████▓░░░░░   79.07 %
-Markdown     14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
-Python       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Dart         1 hr 14 mins    ███████████████████▓░░░░░   79.25 %
+Markdown     14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
+Python       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
