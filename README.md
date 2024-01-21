@@ -38,11 +38,11 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 <!--START_SECTION:waka-->
 
 ```txt
-Java              6 hrs 45 mins   █████████▒░░░░░░░░░░░░░░░   37.58 %
-Dart              2 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
-YAML              2 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-JSON              1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
-Markdown          1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Java              1 hr 25 mins    ███████████▓░░░░░░░░░░░░░   46.08 %
+TypeScript        1 hr 5 mins     ████████▓░░░░░░░░░░░░░░░░   35.30 %
+JSON              11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+Java Properties   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Other             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 ```
 
 <!--END_SECTION:waka-->
