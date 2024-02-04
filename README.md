@@ -38,8 +38,7 @@ I am currently working as a Technical Consultant with 1.5 years of experience in
 <!--START_SECTION:waka-->
 
 ```txt
-Other      1 hr 9 mins     █████████████████░░░░░░░░   67.65 %
-Markdown   33 mins         ████████░░░░░░░░░░░░░░░░░   32.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
